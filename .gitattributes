@@ -1,0 +1,5 @@
+* text=auto eol=lf
+*.onnx binary
+*.wasm binary
+*.wav binary
+*.mp4 binary

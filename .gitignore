@@ -1,0 +1,10 @@
+node_modules/
+dist/
+coverage/
+playwright-report/
+test-results/
+*.tsbuildinfo
+package-lock.json
+.npmrc
+.DS_Store
+tests/.cache/
